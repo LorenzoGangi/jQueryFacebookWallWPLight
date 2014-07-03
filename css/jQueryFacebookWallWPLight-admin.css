@@ -1,0 +1,8 @@
+/* 
+CSS Document 
+jQuery Facebook Wall WP-admin styles
+*/
+.jfw-settings-wrap #access-token-form {position: relative; display: none;}
+.jfw-settings-wrap #access-token-form label{ width: 80px; display: inline-block;}
+.jfw-settings-wrap .jfw-data-load{ display: none; position:absolute; top:50%; left: 50%; margin: -16px 0 -16px 0; }
+
